@@ -23,8 +23,11 @@
 - &#11132;SVG
 - &#11132;Scss
 
-## &#9875;部分專案&#11133;
-
+### &#9875;部分專案&#11133;
+### 電腦圖案CDN: 
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hiphop200199/some-picture@main/computer.css"/>
+### todolist:
+  
 
 
 
