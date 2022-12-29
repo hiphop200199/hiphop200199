@@ -1,5 +1,5 @@
-# &#9875;大家好，我是蔡宗吾!
-## &#9096;一個在邁向前端工程師道路的人.
+# &#9875;大家好，我是蔡宗吾!來自台北.&#127756;
+## &#9096;一個在邁向前端工程師道路的人.&#10024;
 ---
 ### >人因夢想而偉大.   by Pythagoras.
 - &#9352;短期目標:於資展國際前端班課程結業.
@@ -28,6 +28,8 @@
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hiphop200199/some-picture@main/computer.css"/>
 ### todolist:
 [todolist](https://hiphop200199.github.io/my-to-do-list/)
+### clothesShop:
+[clothesShop](https://hiphop200199.github.io/my-clothes-shop/)
 
 
 
