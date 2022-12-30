@@ -2,42 +2,56 @@
 ## &#9096;一個在邁向前端工程師道路的人.&#10024;
 ---
  >  人因夢想而偉大.  
- > 
  >  
- >   
- >    
- >     
  >          by Pythagoras.
+### &#9875;職涯目標 &#11133;
 1. 短期目標:於資展國際前端班課程結業.
 2. 中期目標:投遞履歷、尋找工作.
 3. 長期目標:持續自我學習網頁設計的各方面技術，保持對資訊領域的關注度.
 
-### &#9096;核心技能&#11133;
-- &#11132;HTML
-- &#11132;CSS
-- &#11132;Javascript
-- &#11132;Jquery
-- &#11132;Bootstrap
-- &#11132;PHP
-- &#11132;Apache
-- &#11132;MySQL
-- &#11132;Node
-- &#11132;React
+### &#9096;核心技能 &#11133;
+   &#11132; HTML
 
-### &#9096;其他技能&#11133;
-- &#11132;Inkscape
-- &#11132;SVG
-- &#11132;Scss
+   &#11132; CSS
 
-### &#9875;部分專案&#11133;
-### 電腦圖案CDN: 
+   &#11132; Javascript
+
+   &#11132; Jquery
+
+   &#11132; Bootstrap
+
+   &#11132; PHP
+
+   &#11132; Apache
+
+   &#11132; MySQL
+
+   &#11132; Node
+
+   &#11132; React
+
+### &#9096;其他技能 &#11133;
+ &#11132; **[Inkscape](https://inkscape.org/zh-hant/)**
+ 
+ &#11132; **[SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)**
+ 
+ &#11132; **[Scss](https://sass-lang.com/)**
+
+### &#9875;部分專案(持續更新&#9096;) &#11133;
+### &#8776;電腦圖案CDN: 
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hiphop200199/some-picture@main/computer.css"/>
-### todolist:有使用localstorage
+### &#8776;todolist:有使用localstorage
 [todolist](https://hiphop200199.github.io/my-to-do-list/)
-### clothesShop:
+### &#8776;clothesShop:
 [clothesShop](https://hiphop200199.github.io/my-clothes-shop/)
-### atmosphere:
+### &#8776;atmosphere:
 [atmosphere](https://hiphop200199.github.io/atmosphere/)
-
-
+### &#8776;Atmos.CSS:
+&#9881;&#9881;&#9881;預定放上自製CSS樣式套件，敬請期待&#128591;&#128591;&#128591;
+<br>
+<br>
+<br>
+<br>
+<br>
+ &#128231;聯絡我:<hiphop200199@gmail.com>
 
