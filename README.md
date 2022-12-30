@@ -26,7 +26,7 @@
 ### &#9875;部分專案&#11133;
 ### 電腦圖案CDN: 
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hiphop200199/some-picture@main/computer.css"/>
-### todolist:
+### todolist:有使用localstorage
 [todolist](https://hiphop200199.github.io/my-to-do-list/)
 ### clothesShop:
 [clothesShop](https://hiphop200199.github.io/my-clothes-shop/)
