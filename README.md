@@ -16,7 +16,7 @@
 
    &#11132; Javascript
 
-   &#11132; Jquery
+   &#11132; JQuery
 
    &#11132; Bootstrap
 
@@ -35,7 +35,7 @@
  
  &#11132; **[SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)**
  
- &#11132; **[Scss](https://sass-lang.com/)**
+ &#11132; **[SCSS](https://sass-lang.com/)**
 
 ### &#9875;部分專案(持續更新&#9096;) &#11133;
 ### &#8776;電腦圖案CDN: 
