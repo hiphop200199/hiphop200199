@@ -38,16 +38,16 @@
  &#11132; **[SCSS](https://sass-lang.com/)**
 
 ### &#9875;部分專案(持續更新&#9096;) &#11133;
-### &#8776;電腦圖案CDN: 
+### &#8776;&#128187;電腦圖案CDN: 
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hiphop200199/some-picture@main/computer.css"/>
+### &#8776;&#128221;Atmos.CSS樣式CDN:
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hiphop200199/Atmos.CSS@main/Atmos.css"/>
 ### &#8776;todolist:有使用localstorage
 [todolist](https://hiphop200199.github.io/my-to-do-list/)
 ### &#8776;clothesShop:
 [clothesShop](https://hiphop200199.github.io/my-clothes-shop/)
 ### &#8776;atmosphere:
 [atmosphere](https://hiphop200199.github.io/atmosphere/)
-### &#8776;Atmos.CSS:
-&#9881;&#9881;&#9881;預定放上自製CSS樣式套件，敬請期待&#128591;&#128591;&#128591;
 <br>
 <br>
 <br>
