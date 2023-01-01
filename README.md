@@ -51,7 +51,7 @@
 ### &#8776;&#127760;atmosphere:
 [atmosphere](https://hiphop200199.github.io/atmosphere/)
 ### &#8776;&#127760;bad-jokes:
-[bad-jokes](https://hiphop200199.github.io/time-for-bad-joke/)
+不好意思，因為不是靜態網站，所以還需要改寫時間&#128532;
 <br>
 <br>
 <br>
