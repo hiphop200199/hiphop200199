@@ -37,8 +37,6 @@
  
  &#11132; **[SCSS](https://sass-lang.com/)**
  
- &#11132; **[Typescript](https://www.typescriptlang.org/)**
-
 ### &#9875;部分專案(持續更新&#9096;) &#11133;
 ### &#8776;&#128187;電腦圖案CDN: 
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hiphop200199/some-picture@main/computer.css"/>
