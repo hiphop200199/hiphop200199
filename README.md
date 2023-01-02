@@ -52,7 +52,7 @@
 [atmosphere](https://hiphop200199.github.io/atmosphere/)
 ### &#8776;&#127760;bad-jokes靜態網站:
 [badJokes-lite](https://hiphop200199.github.io/time-for-bad-joke/)
-### &#8776;&#127760;bad-jokes動態網站:
+### &#8776;&#127760;bad-jokes動態網站(資料庫比較大一些):
 [badJokes](https://hiphop200199.infinityfreeapp.com/)
 <br>
 <br>
