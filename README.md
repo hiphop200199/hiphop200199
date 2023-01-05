@@ -48,6 +48,8 @@
 [clothesShop](https://hiphop200199.github.io/my-clothes-shop/)
 ### &#8776;&#127760;atmosphere:
 [atmosphere](https://hiphop200199.github.io/atmosphere/)
+### &#8776;&#127760;lottery:
+[lottery](https://hiphop200199.github.io/my-lottery-website/)
 ### &#8776;&#127760;bad-jokes靜態網站:
 [badJokes-lite](https://hiphop200199.github.io/time-for-bad-joke/)
 ### &#8776;&#127760;bad-jokes動態網站(資料庫比較大一些):
