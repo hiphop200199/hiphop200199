@@ -54,6 +54,8 @@
 [badJokes-lite](https://hiphop200199.github.io/time-for-bad-joke/)
 ### &#8776;&#127760;bad-jokes動態網站(資料庫比較大一些):
 [badJokes](https://hiphop200199.infinityfreeapp.com/)
+### &#8776;&#127760;bad-jokes手機版網站:
+[badJokes-mobile](https://hiphop200199.github.io/time-for-bad-joke-mobile-version/)
 ### &#8776;&#127760;節拍器:
 [BPM](https://hiphop200199.github.io/rhythm-visualizer/)
 <br>
