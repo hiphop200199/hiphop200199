@@ -56,6 +56,8 @@
 [badJokes-mobile](https://hiphop200199.github.io/time-for-bad-joke-mobile-version/)
 ### &#8776;&#127760;節拍器:
 [BPM](https://hiphop200199.github.io/rhythm-visualizer/)
+### &#8776;&#127760;pc-generator:
+[pc-generator](https://hiphop200199.github.io/pc-generator/)
 <br>
 <br>
 <br>
