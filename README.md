@@ -28,9 +28,7 @@
 
 ### &#9096;其他技能(持續發展&#127959;) &#11133;
  &#11132; **[Inkscape](https://inkscape.org/zh-hant/)**
- 
- &#11132; **[SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)**
- 
+  
  &#11132; **[SCSS](https://sass-lang.com/)**
  
 ### &#9875;部分專案(持續更新&#9096;) &#11133;
