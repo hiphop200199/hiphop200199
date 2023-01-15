@@ -56,6 +56,8 @@
 [BPM](https://hiphop200199.github.io/rhythm-visualizer/)
 ### &#8776;&#127760;pc-generator:
 [pc-generator](https://hiphop200199.github.io/pc-generator/)
+### &#8776;&#127760;layout-designer:
+[layout-designer](https://hiphop200199.github.io/layout-designer/)
 <br>
 <br>
 <br>
