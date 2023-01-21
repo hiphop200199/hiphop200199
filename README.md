@@ -60,6 +60,8 @@
 [layout-designer](https://hiphop200199.github.io/layout-designer/)
 ### &#8776;&#127760;makeup-homepage:
 [makeup-shop](https://hiphop200199.github.io/my-makeup-shop/)
+### &#8776;&#127760;birthday-wishes-list:
+[birthday-wishes](https://hiphop200199.github.io/birthday-wishes-reminder/)
 <br>
 <br>
 <br>
