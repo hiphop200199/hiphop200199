@@ -64,6 +64,8 @@
 [birthday-wishes](https://hiphop200199.github.io/birthday-wishes-reminder/)
 ### &#8776;&#127760;star-sign星座:
 [star-sign](https://hiphop200199.github.io/my-star-sign/)
+### &#8776;&#127760;幸運籤筒:
+[fortune-poems](https://hiphop200199.github.io/am-i-lucky-today/)
 <br>
 <br>
 <br>
