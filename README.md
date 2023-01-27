@@ -62,6 +62,8 @@
 [makeup-shop](https://hiphop200199.github.io/my-makeup-shop/)
 ### &#8776;&#127760;birthday-wishes-list:
 [birthday-wishes](https://hiphop200199.github.io/birthday-wishes-reminder/)
+### &#8776;&#127760;star-sign星座:
+[star-sign](https://hiphop200199.github.io/my-star-sign/)
 <br>
 <br>
 <br>
