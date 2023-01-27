@@ -52,7 +52,7 @@
 [badJokes](https://hiphop200199.infinityfreeapp.com/)
 ### &#8776;&#127760;bad-jokes手機版網站:
 [badJokes-mobile](https://hiphop200199.github.io/time-for-bad-joke-mobile-version/)
-### &#8776;&#127760;節拍器:
+### &#8776;&#127760;節拍器(打算轉製成mp3 player):
 [BPM](https://hiphop200199.github.io/rhythm-visualizer/)
 ### &#8776;&#127760;pc-generator:
 [pc-generator](https://hiphop200199.github.io/pc-generator/)
