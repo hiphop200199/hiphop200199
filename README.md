@@ -36,9 +36,9 @@
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hiphop200199/some-picture@main/computer.css"/>
 ### &#8776;&#128221;Atmos.CSS樣式CDN:
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hiphop200199/Atmos.CSS@main/Atmos.css"/>
-### &#8776;&#9999;todolist:
+### &#8776;&#127760;todolist:
 [todolist](https://hiphop200199.github.io/my-to-do-list/)
-### &#8776;&#9999;todolist-mobile:
+### &#8776;&#127760;todolist-mobile:
 [todolist-mobile](https://hiphop200199.github.io/todolist-mobile-version/)
 ### &#8776;&#127760;clothesShop:
 [clothesShop](https://hiphop200199.github.io/my-clothes-shop/)
