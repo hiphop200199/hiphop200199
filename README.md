@@ -73,6 +73,8 @@
 ### &#8776;&#127760;數學與生活(建置中&#127959;):
 ### &#8776;&#127912;heartbeat-effect:
 [heartbeat-effect](https://hiphop200199.github.io/heartbeat-effect/)
+### &#8776;&#127760;數數羊:
+[sheep-counter](https://hiphop200199.github.io/sheep-counter/)
 <br>
 <br>
 <br>
