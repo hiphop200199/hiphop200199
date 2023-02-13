@@ -75,6 +75,8 @@
 [heartbeat-effect](https://hiphop200199.github.io/heartbeat-effect/)
 ### &#8776;&#127760;數數羊:
 [sheep-counter](https://hiphop200199.github.io/sheep-counter/)
+### &#8776;&#127760;理財與生活(籌畫中&#127959;):
+### &#8776;&#127760;診所(籌畫中&#127959;):
 <br>
 <br>
 <br>
