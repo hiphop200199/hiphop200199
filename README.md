@@ -79,6 +79,8 @@
 ### &#8776;&#127760;診所(籌畫中&#127959;):
 ### &#8776;&#127912;Happy Valentines:
 [happy-valentines](https://hiphop200199.github.io/roses/)
+### &#8776;&#127912;smoke-effect:
+[smoke-effect](https://hiphop200199.github.io/smoke-effect/)
 <br>
 <br>
 <br>
