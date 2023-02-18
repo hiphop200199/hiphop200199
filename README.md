@@ -78,6 +78,8 @@
 [happy-valentines](https://hiphop200199.github.io/roses/)
 ### &#8776;&#127912;smoke-effect:
 [smoke-effect](https://hiphop200199.github.io/smoke-effect/)
+### &#8776;&#127912;flip:
+[flip]
 <br>
 <br>
 <br>
