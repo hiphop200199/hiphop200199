@@ -70,13 +70,10 @@
 [linktree](https://hiphop200199.github.io/make-a-link-tree/)
 ### &#8776;&#127760;carrotOrange畫板:
 [carrotOrange](https://hiphop200199.github.io/carrotOrange/)
-### &#8776;&#127760;數學與生活(建置中&#127959;):
 ### &#8776;&#127912;heartbeat-effect:
 [heartbeat-effect](https://hiphop200199.github.io/heartbeat-effect/)
 ### &#8776;&#127760;數數羊:
 [sheep-counter](https://hiphop200199.github.io/sheep-counter/)
-### &#8776;&#127760;理財與生活(籌畫中&#127959;):
-### &#8776;&#127760;診所(籌畫中&#127959;):
 ### &#8776;&#127912;Happy Valentines:
 [happy-valentines](https://hiphop200199.github.io/roses/)
 ### &#8776;&#127912;smoke-effect:
