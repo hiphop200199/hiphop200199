@@ -79,7 +79,7 @@
 ### &#8776;&#127912;smoke-effect:
 [smoke-effect](https://hiphop200199.github.io/smoke-effect/)
 ### &#8776;&#127912;flip:
-[flip]
+[flip](https://hiphop200199.github.io/flip/)
 <br>
 <br>
 <br>
