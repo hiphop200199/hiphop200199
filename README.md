@@ -80,6 +80,8 @@
 [smoke-effect](https://hiphop200199.github.io/smoke-effect/)
 ### &#8776;&#127912;flip:
 [flip](https://hiphop200199.github.io/flip/)
+### &#8776;&#127912;speed:
+[speed](https://hiphop200199.github.io/speed-feeling/)
 <br>
 <br>
 <br>
