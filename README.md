@@ -88,6 +88,8 @@
 [music-board](https://hiphop200199.github.io/music-board/)
 ### &#8776;&#127760;web-template:
 [web-template](https://hiphop200199.github.io/web-template/)
+### &#8776;&#127912;rain:
+[rain](https://hiphop200199.github.io/rain-effect/)
 <br>
 <br>
 <br>
