@@ -90,6 +90,8 @@
 [web-template](https://hiphop200199.github.io/web-template/)
 ### &#8776;&#127912;rain:
 [rain](https://hiphop200199.github.io/rain-effect/)
+### &#8776;&#127912;firework:
+[firework](https://hiphop200199.github.io/firework-effect/)
 <br>
 <br>
 <br>
