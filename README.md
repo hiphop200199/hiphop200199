@@ -94,6 +94,8 @@
 [firework](https://hiphop200199.github.io/firework-effect/)
 ### &#8776;&#127912;flowfield:
 [flowfield](https://hiphop200199.github.io/flowfield/)
+### &#8776;&#127912;galaxy:
+[galaxy](https://hiphop200199.github.io/galaxy-effect/)
 <br>
 <br>
 <br>
