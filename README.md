@@ -96,6 +96,8 @@
 [flowfield](https://hiphop200199.github.io/flowfield/)
 ### &#8776;&#127912;galaxy:
 [galaxy](https://hiphop200199.github.io/galaxy-effect/)
+### &#8776;&#127760;web-template2:
+[web-template2](https://hiphop200199.github.io/web-template2/)
 <br>
 <br>
 <br>
