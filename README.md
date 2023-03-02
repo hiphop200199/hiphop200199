@@ -98,6 +98,8 @@
 [galaxy](https://hiphop200199.github.io/galaxy-effect/)
 ### &#8776;&#127760;web-template2:
 [web-template2](https://hiphop200199.github.io/web-template2/)
+### &#8776;&#127912;flow-effect:
+[flow-effect](https://hiphop200199.github.io/random-flow-effect/)
 <br>
 <br>
 <br>
