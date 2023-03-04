@@ -100,6 +100,8 @@
 [web-template2](https://hiphop200199.github.io/web-template2/)
 ### &#8776;&#127912;flow-effect:
 [flow-effect](https://hiphop200199.github.io/random-flow-effect/)
+### &#8776;&#127912;star-trail-move-effect:
+[star-trail-move-effect](https://hiphop200199.github.io/star-trail-move-effect/)
 <br>
 <br>
 <br>
