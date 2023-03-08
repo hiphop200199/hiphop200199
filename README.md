@@ -84,17 +84,17 @@
 [speed](https://hiphop200199.github.io/speed-effect/)
 ### &#8776;&#127760;car:
 [car](https://hiphop200199.github.io/about-car/)
-### &#8776;&#127912;music-board:
+### &#8776;&#127912;music-board(移動滑鼠及按按鍵(c,d,e,f,g,a,b)來互動):
 [music-board](https://hiphop200199.github.io/music-board/)
 ### &#8776;&#127760;web-template:
 [web-template](https://hiphop200199.github.io/web-template/)
 ### &#8776;&#127912;rain:
 [rain](https://hiphop200199.github.io/rain-effect/)
-### &#8776;&#127912;firework:
+### &#8776;&#127912;firework(按按鍵(f,空白鍵)看煙火效果):
 [firework](https://hiphop200199.github.io/firework-effect/)
 ### &#8776;&#127912;flowfield:
 [flowfield](https://hiphop200199.github.io/flowfield/)
-### &#8776;&#127912;galaxy:
+### &#8776;&#127912;galaxy(按按鍵(上,下)調整旋轉速度,s:流星,m:隕石,c:彗星):
 [galaxy](https://hiphop200199.github.io/galaxy-effect/)
 ### &#8776;&#127760;web-template2:
 [web-template2](https://hiphop200199.github.io/web-template2/)
